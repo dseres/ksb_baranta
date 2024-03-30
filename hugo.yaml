@@ -1,0 +1,23 @@
+baseURL: https://ksbbaranta.hu/
+languageCode: hu-HU
+title: Királyi Sólymok Buda Baranta
+theme: lightbi-hugo
+params:
+  contact: 
+    email: info@ksbbaranta.hu
+# sectionPagesMenu: main
+menus:
+  main:
+  - name: Bemutatkozás
+    pageRef: /about
+    weight: 10
+  - name: Infók
+    weight: 20
+  - name: Egyesületünk
+    parent: Infók
+    pageRef: about/organization
+    weight: 2
+  - name: Foglalkozások
+    parent: Infók
+    pageRef: about/trainings
+    weight: 1

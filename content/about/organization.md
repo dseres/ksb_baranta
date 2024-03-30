@@ -1,0 +1,27 @@
+---
+title: Egyesületünk
+date: 2024-03-30T17:44:14+01:00
+draft: true
+params:
+  author: Seres Dávid
+---
+
+Egyesületünk bejegyzése 2016.05.17-n jogerőre emelkedett.
+
+## Egyeseületünk adatai
+
+|                                 |   |
+| ------------------------------- | ------------- |
+| Megnevezés                      | Királyi Sólymok Buda Baranta Hagyományos Magyar Harcművészeti Sport- és Kulturális Egyesület |
+| Szervezet nyilvántartási száma  | 01-02-0015900 |
+| Adószám                         | 18751770-1-41 |
+| Számlaszám                      | 11702081-21248515 |
+| Számlavezető Bank               | OTP |
+| Szervezet székhelye             | 1026 Budapest, Trombitás út 24. 1/2. |
+| Cél szerinti besorolása         | sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet) |
+| Cél szerinti leírás             | A hagyományos magyar testkultúra, testedzés gyakorlása, oktatása, népszerűsítése. Kulturális hagyományaink (harci kultúra, néptánc, népdalok. népszokások, stb.) megismerése. Megélése, tanítása. A magyar szellemi kultúra (magyar nyelv, mondák, stb) megismertetése, gyarapítása. A magyar hagyományokra épülő közösségek építése. |
+| Elnök                           | Vida László |
+| Alelnök                         | Botos Zoltán |
+| Alelnök                         | Seres Dávid |
+
+Egyesületünk részletes adatai megtalálhatóak és kereshetőek a [Civil Szervezetek Névjegyzékében](https://birosag.hu/civil-szervezetek-nevjegyzeke) is.
