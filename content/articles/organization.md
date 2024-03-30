@@ -2,8 +2,8 @@
 title: Egyesületünk
 date: 2024-03-30T17:44:14+01:00
 draft: true
-params:
-  author: Seres Dávid
+build:
+  list: local
 ---
 
 Egyesületünk bejegyzése 2016.05.17-n jogerőre emelkedett.

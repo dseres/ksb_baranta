@@ -2,8 +2,8 @@
 title: Bemutatkozás
 date: 2024-03-30T16:42:58+01:00
 draft: true
-params:
-  author: Seres Dávid
+build:
+  list: local
 ---
 
 A Baranta mint szó napjainkban már nem használt kifejezés melynek jelentése harcra való felkészülés. Az iskolai gyermek foglalkozásokon küzdelmi gyermekjátékok, botvívás, botforgatás, gyermek ostorhasználat, csikó birkózás oktatása történik. Idén augusztusban három csapat egyesülésével jött létre egy egyesület, mely felelős a Baranta oktatásáért a II. kerület Buda, Solymár, Nagykovácsi régióban. Királyi Sólymok Buda Baranta Hagyományos Magyar Harcművészeti Sport és Kultúrális Egyesület, röviden KSB Baranta HMHSKE lett a neve.

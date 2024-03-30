@@ -2,8 +2,8 @@
 title: Foglalkozások
 date: 2024-03-30T19:10:28+01:00
 draft: true
-params:
-  author: Seres Dávid
+build:
+  list: local
 ---
 
 Foglalkozásra hozni kell:  
@@ -13,7 +13,6 @@ Rövid bot, hosszú bot, íj, nyilak, ostor. Eszközöket kezdőknek tudunk bizt
 Helyszínek és időpontok:  
 Minden hétköznap 18:00-tól 20:00 -ig az Astóriánál a Magyarok Házában. Gyerekeknek ugyanitt 16:30-tól 17:30-ig.  
 Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
-
 
 ## Órarend
 
@@ -26,13 +25,13 @@ Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
 | Péntek    | 17:30-19:30   | 7-99      | Családi edzés |
 
 &nbsp;  
- 
+
 | Edzésnap  | Időpont       | Korosztály    | Fő téma |
 | --------- | ------------- | ------------- | ------- |
 | Hétfő     | 17:00-18:00   | 06-16         | Ügyességi,népi játékok (bot, szablya, stb.) |
 | Kedd      | 17:00-18:00   | 06-16         | Íjászat (Családi edzés) |
 | Szerda    | 17:00-18:00   | 06-16         | Bírkózás |
-| Péntek    | 17:30-19:30   | 06-99	        | Családi edzés |
+| Péntek    | 17:30-19:30   | 06-99         | Családi edzés |
 
 ## Díjak
 
@@ -46,7 +45,7 @@ A havi tagdíjat a foglalkozásvezetőnél lehet készpénzben befizetni ill., E
 | Heti 4 edzés  | 18,000                        | 1,150 |
 | Heti 5 edzés  | 20,000                        | 1,000 |
 
-Fél év korlátlan/fő	60,000
+Fél év korlátlan/fő 60,000
 1db edzés 4,000
 
 Családi (testvér, házastárs) kedvezmény: 2. fő 50%, 3. 80% 4. től ingyen  
