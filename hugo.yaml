@@ -31,3 +31,13 @@ Params:
 security:
   exec:
     allow: ["^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+
+markup:
+  asciidocExt:
+    attributes:
+      allow-uri-read: ""
+      source-highlighter: rouge
+      rouge-css: style
+      rouge-style: thankful_eyes
+      imagesdir: /images
+      icons: font

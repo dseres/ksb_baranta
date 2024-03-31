@@ -1,0 +1,30 @@
+---
+title: Foglalkozások
+date: 2024-03-30T19:10:28+01:00
+draft: true
+---
+
+[NOTE]
+====
+This is a NOTE
+====
+
+[CAUTION]
+====
+This is a CAUTION
+====
+
+[WARNING]
+====
+This is a WARNING
+====
+
+[TIP]
+====
+This is a TIP
+====
+
+[IMPORTANT]
+====
+This is IMPORTANT
+====
