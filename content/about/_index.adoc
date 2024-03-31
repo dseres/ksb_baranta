@@ -1,0 +1,9 @@
+---
+title: Rólunk
+date: 2024-03-31T22:16:41+02:00
+markup: adoc
+---
+
+{{< youtube 3bug3uwktrw >}}
+
+Hétköznapon hétfőtől péntekig tartjuk link:{{< ref "/about/trainings" >}}[foglalkozásainkat] a Turul házban.

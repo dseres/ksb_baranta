@@ -1,36 +1,47 @@
 baseURL: https://ksbbaranta.hu/
 languageCode: hu-HU
+# defaultcontentlanguage: hu
 title: Királyi Sólymok Buda Baranta
 theme: beautifulhugo
-params:
-  contact: 
-    email: info@ksbbaranta.hu
+
+Params:
+  selfHosted: true
+  homeTitle: #
+  subtitle: #
+  mainSections: ["blog"]
+  readingTime: true
+  wordCount: true
+  hideAuthor: true
 
 # sectionPagesMenu: main
 menus:
   main:
-  - name: Infók
+  - name: Blog
     weight: 10
     url: #
+  - name: Rólunk
+    weight: 20
+    url: #
   - name: Bemutatkozás
-    parent: Infók
-    pageRef: /articles/about
+    parent: Rólunk
+    pageRef: /about/about
     weight: 1
   - name: Foglalkozások
-    parent: Infók
-    pageRef: articles/trainings
+    parent: Rólunk
+    pageRef: about/trainings
     weight: 2
   - name: Egyesületünk
-    parent: Infók
-    pageRef: articles/organization
+    parent: Rólunk
+    pageRef: about/organization
     weight: 3
-
-Params:
-  selfHosted: true
+  - name: Tudástár
+    weight: 30
+    url: #
 
 security:
   exec:
-    allow: ["^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+    allow:
+    - ^asciidoctor$
 
 markup:
   asciidocExt:
