@@ -18,7 +18,7 @@ menus:
   main:
   - name: Blog
     weight: 10
-    url: #
+    url: /blog
   - name: Rólunk
     weight: 20
     url: #
@@ -34,6 +34,14 @@ menus:
     parent: Rólunk
     pageRef: about/organization
     weight: 3
+  - name: A Barantáról
+    parent: Rólunk
+    pageRef: about/about_baranta
+    weight: 4
+  - name: A Baranta fokozatai
+    parent: Rólunk
+    pageRef: about/ranks
+    weight: 5
   - name: Tudástár
     weight: 30
     url: #

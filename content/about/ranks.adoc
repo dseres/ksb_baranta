@@ -1,0 +1,38 @@
+---
+title: A baranta fokozatai
+date: 2024-04-03T20:03:59+02:00
+draft: true
+marcup: adoc
+---
+
+A fokozatok a Baranta felnőtt rendszerében a régi pusztai tízes harci rendszerek elvét követik, míg a Csíkóbaranta esetében négy fokozat készíti fel a gyermekeket az ifjak közösségéhez való csatlakozásra. E melkedő rendben mutatják meg, hogy az adott barantázó milyen mértékben birtokolja az elődei által reá hagyományozott harci örökséget, valamint, hogy milyen mértékben képes ezt alkalmazni és fejleszteni.
+
+Az emelkedő tízes rendszerhez a népi állatmegfigyelések harci értékeit társító régi magyar, magyar tájnyelvi és kun állatmegnevezések tartoznak.
+
+A vizsgázott jogosult öltözetén, veretes övén megjelölni a teljesített fokozat szimbólumát, rovásjeleit. A fokozatok odaítélése során a vizsgabizottság azt a tényt jelzi, hogy az elvárt testi-, lelki-, erkölcsi képességek, készségek és tartalmak magasabb szintre emelkedtek /közeledve a harcos szintjéhez/.
+
+A személyiségfejlődés egyes állomásai új és új kihívásokattartalmaznak. A Barantában az egyes állatnevek (a hivatalos megnevezés vastagbetűvel) a harci, szellemi képességek egy-egy szintjét jelölik az alábbi táblázatok szerint.
+
+.Gyermek fokozatok
+|===
+| Csikó1 | Kiscsikó | Még nehezen szakad el a szülőktől.
+| Csikó2 | Fakó	| Szertelen.
+| Csikó3 | Pej	| Nem szabad túl sokat nyesni róla.
+| Csikó4 | Deres | Találja meg az utat a nagyobbakhoz.
+|=== 
+
+.Felnőtt fokozatok
+|===
+| Fokozat | hagyományos neve	| A fokozat mai jelentése	Ismert veszélyforrások
+
+| Bodur	| Törpe, apró állat: az önvédelem felvállalása. |	Túlértelmezi az önvédelem szerepét és az út megkezdését.
+| Borsuk | Borz: a teljes odaadással küzdés	| Nem képes a másokkal való együttműködésre.
+| Burk	| Farkas: az együttműködés képessége. |	Sokszor úgy gondolja, hogy a csoport, a közösség a saját hiáinak a rejtekhelye. Nem állja a szavát.
+| Rüs	| Hiúz: óvatosság és kiszámíthatatlanság.	| Vérengző, az elsajátított tudást aránytalanul alkalmazza másokkal szemben.
+| Bars	| Hópárduc: ruganyosság, test és erő optimális összhangja. |	Hiú.
+| Csanád	| Tompa orrú ló: a természet és harcos összhangja.	| Sokat dolgozik. Rendszeresen olyan terhet is visz, amit nem biztos, hogy kellene.
+| Arslan	| Oroszlán: a magabiztosság és nyugalom. |	Lustaságra való hajlam.
+| Kaplony	| Tigris: a harc időpontjának és módjának helyes megválasztása.	| Magányos
+| Belénd	| Bölény: az ősi, ösztönös erők tudatos hasznosítása. | Az emberi szellem utolsó harca önmaga ellen.	Van aki nem képes önmaga valóságával szembesülni.
+| Tepremez	| Rendíthetetlen: a népet jelképező tökéletesedő harcos, a képességek teljessége nem más, mint az ember teljessége.	 |
+|===
