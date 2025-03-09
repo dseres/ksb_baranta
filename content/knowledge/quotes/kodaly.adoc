@@ -1,0 +1,26 @@
+---
+title: Kodály Zoltán
+date: 2025-03-09T14:14:55+01:00
+draft: false
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/kodaly.jpg[]
+
+[quote, Kodály Zoltán]
+"A magyar kultúra örök harc a hagyomány (népi műveltség) és a nyugati kultúra között.
+Béke csak úgy lehet, ha a népkultúra nő fel magas kultúrává, saját törvényei szerint, Európától csak azt veszi át,
+ami erre kell, s ezt is szervesen magába olvasztja...”
+
+[quote, Kodály Zoltán]
+”A magyar értelmiség feladata, hogy a parasztság által megőrzött népi kultúrát megtanulva,
+korszerűen adja tovább a közoktatásban és az iskolán kívüli művészeti mozgalmak segítségével...”
+
+[quote, Kodály Zoltán]
+”Hogy a nemzet lehajol a néphez, igyekszik megérteni és felemelni, nem pusztán irodalmi vagy zenei jelentőségű dolog.
+Életbevágó fontosságú és hosszantartó történeti folyamat fordulópontja ez..."

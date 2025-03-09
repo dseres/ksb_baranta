@@ -1,9 +1,12 @@
 ---
 title: A Barantáról
 date: 2024-04-03T19:58:23+02:00
-draft: true
 marcup: adoc
+author:
+subtitle:
 summary: A baranta szó elsősorban az ország olyan nyugati és déli peremvidékein maradt fenn, ahol a lakosság összetétele többségében magyar volt (Somogy, Ormánság, Göcsej, Őrség). A szépirodalomban a legtöbb alkalommal Kodolányi János műveiben találkozhatunk vele.
+tags: []
+image:
 ---
 
 ## A Baranta elnevezése

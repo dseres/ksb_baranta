@@ -1,0 +1,16 @@
+--- 
+title: Győrffy István
+date: 2025-03-09T14:02:24+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/gyorffy.jpg[]
+
+[quote, Győrffy István]
+_"A néphagyomány tart meg bennünket magyarnak, s a nemzetközi műveltségünk tesz európaivá...ha azonban csak európaiságra törekszünk,
+lehetünk nagy műveltségű nép, de minél hamarabb megszűnünk magyarnak lenni.Beleolvadunk abba a nyugati nemzetbe, amelynek műveltséghatását legkönnyebben elfogadjuk..."_

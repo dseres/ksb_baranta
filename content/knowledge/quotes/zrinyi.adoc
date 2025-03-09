@@ -1,0 +1,46 @@
+---
+title: Zrínyi Miklós
+date: 2025-03-09T14:21:59+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/zrinyi.jpg[]
+
+[quote, Zrínyi Mikós]
+"A vitézség nem egy napi tanuság..."
+
+[quote, Zrínyi Mikós]
+"Nem szégyen attul tanulni, a ki többet tud, szégyen megkötni tudatlanságban magát, s nem tanulni"
+
+[quote, Zrínyi Mikós]
+“Egy nemzet sem pattog úgy s nem kevélykedik nemesség titulusával, mint a magyar, maga annak bizonyítására...
+semmit sem cselekszik...”
+
+[quote, Zrínyi Mikós]
+"Nem másra használ eleink tündöklése nekünk, hanem hogy égő szövétneknél,
+fényes fáklyánál futjuk a mi életünk pályáját, nem lehetünk sötétben, sem mi, sem az mi cselekedeteink;
+ha jól viseljük magunkat, azoknak fényességénél mindjárt minden ember meglát: ha rosszul,
+úgy sem kerülhetjük ujjal való ránk mutatást."
+
+[quote, Zrínyi Mikós]
+...ollyan messze estünk mi mostani magyarok a régiektől, hogy ha eljőnének mostan más világról azok a mi vitéz eleink,
+sem mi őket, sem ők minket meg sem ismerhetnének...Csúfsága lettünk a nemzetnek és magunknak, ellenségünknek penig,
+valahunnan jön reánk, prédájává. Miért? A vitézségnek disciplinája meg nem tartásáért, a részegségért, a tunyaságért,
+az egymásgyűlölésért, és ezer ilyen vétkünkért..."
+
+[quote, Zrínyi Mikós]
+“Elfussunk? Nincs hová, sohun másutt Magyarországot meg nem találjuk, senki a maga országábol barátságunkért
+ki nem mégyen, hogy minket helyeztessen belé. Az mi nemes szabadságunk az ég alatt sohun nincs hanem Pannoniában...”
+/Áfium/
+
+[quote, Zrínyi Mikós]
+“...kit kévánok s micsoda nemzetet akarok oltalmamra, azt mondom: a magyart kévánom.
+Miért? Azért mert ez a legalkalmatosabb, legerősebb, leggyorsabb és, ha akarja legvitézebb nemzetség...
+Azért magyart kévánok oltalmunkra, nem indust, nem garamantát, nem olaszt, sem németet, sem spanyort.
+Csak jobbítsuk meg magunkat, szabjunk más rendet dolgaiknak, tegyük helyére és méltóságára militarem disciplinam:
+egy nemzetnél sem vagyunk alábbvalók... ha kevesen vagyunk is”

@@ -1,0 +1,54 @@
+---
+title: Karácsony Sándor
+date: 2025-03-09T14:12:11+01:00
+draft: false
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/karacsony.jpg[]
+
+
+[quote, Karácsony Sándor]
+”az, hogy magyar nem faj, nem vér, hanem a lélek dolga. Nem a vér alakította ki a magyar lelket s hozta létre így
+a magyar fajt, hanem ellenkezőleg, a magyar lélek hatott a vérre s most és minden időben az a magyar faj,
+amit a magyar lélek áthatott. Mindenki olyan mértékben magyar, amekkora mértékben magyar lélek ereje él és hat
+rajta keresztül...”
+
+[quote, Karácsony Sándor]
+"...Semmi sem könnyebb, mint azonnal felismerhetni, ki a magyar és kicsoda nem az. De nem fontos megállapítani,
+ki az és ki nem az, mert a dolog természete szerint nem érdemes itt nem magyarnak lenni. Annak, ami nem-magyar,
+nálunk mindig csak jelenje lehetséges, jövője nincs..."
+
+[quote, Karácsony Sándor]
+"....a magyar kultúrát, észjárást és világszemléletet a parasztság őrizte csak meg, de közben elmaradt európai
+műveltsége. A gimnáziumokban, főiskolákon, egytemeken tanuló ifjúság teljesen a germán kultúra vonzásába került
+és így a középosztály elszakadt a néptől, gyökértelen értelmiséget alkot...”
+
+[quote, Karácsony Sándor]
+"Azt a feltevésemet, hogy minden kísérlet, mely földünkön és történelmünkben ellenált a feladatok magyar
+megoldási módjának, csak veszteglést, visszafejlődést, kárt, pusztulást, betegséget és tetszhalált eredményezhetett,
+jó gyümölcsöt nem termett sohasem s ezután sem teremhet..."
+
+[quote, Karácsony Sándor]
+"Azt azonban, hogy igazi halált nem okozott sem eddig s ezután sem okozhat, mert hálá Istennek,
+a magyar passzív rezisztenciának van mégis egy aktív, erőszakos-végeszakasztó szempillantása,
+nem mertem még tudományos igazságként hirdetni, itt említem csak, mint gyanításomat és feltevésemet.
+Mert van ilyen minden után pontot tevő lelkiállapot. A csömör."
+
+[quote, Karácsony Sándor]
+"Tűr, tűr az objektív és primitív ázsiai jellegű társaslélek sokáig, még mindíg tűr, sokszor úgy tetszik a végletekig
+tűr, de egyszer csak végképp megcsömöllik. Akkor aztán mindennek vége. Egyelőre képtelen új szellemi
+táplálékfelvételre, a legutoljára beleerőltetett adag talán vissza is jön belőle, ki kell kurálnia magát,
+bőjtöl, diétázik s csak azután lehet belediktálni kívülről valamit, ha egy darabig a maga életét élhette
+és erőre kapott..."
+
+[quote, Karácsony Sándor]
+"...sem erőszakoskodásra, sem pesszimizmusra nincs szükségünk, tehát okunk sincs.
+Ezen a földön, ebben a sorsközösségben csak magyar élet lehetséges,
+ha pedig a mi magunk magyarsága telítődnék a kívánatosnál nagyobb mértékben idegen elemmel,
+legfeljebb elfog bennünket a csömör, s megint megúsztuk egy kis szenvedéssel..."

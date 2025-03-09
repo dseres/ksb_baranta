@@ -1,0 +1,21 @@
+---
+title: Andrásfalvy Bertalan
+date: 2025-03-09T12:47:32+01:00
+marcup: adoc
+author: Seres Dávid
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/andrasfalvy.jpg[]
+
+[quote, Andrásfalvy Bertalan]
+_"A néphagyományban több ezer éves bölcsesség van és ez a jövő számára útmutatás."_
+
+[quote, Andrásfalvy Bertalan]
+_"Egy nép sincs olyan végzetesen megosztva, mint a magyar. Mintha az uralkodók és hatalmasok nem éreznének
+közösséget népükkel, csak saját, önző érdekeiket nézik, és kiszolgálnak minden idegen hatalmat önzésükben.
+Az idegen szellemiségű királyok a maguk embereit ültették be nemcsak a legfontosabb hivatalokba,
+hanem birtokadományozásokkal az ország leghatalmasabb uraivá tették őket."_

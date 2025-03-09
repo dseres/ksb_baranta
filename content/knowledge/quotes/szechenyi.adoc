@@ -1,0 +1,22 @@
+---
+title: Széchenyi István
+date: 2025-03-09T14:21:52+01:00
+draft: false
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/szechenyi.jpg[]
+
+[quote, Széchenyi István]
+”A magyar népnek nincs csekélyebb hivatása, mint képviselni ázsiai bölcsőjében rejtező,
+eddigilé sehol ki nem fejtett, sehol érettségre nem virult sajátságit...”
+
+[quote, Széchenyi István]
+"Az emberiségnek egy nemzetet megtartani, sajátságait mint ereklyét megőrizni s szeplőtelen mineműségében kifejteni,
+nemesíteni erőit, erényeit, s így egészen új, eddig még nem ismert alakokban kiképezve, végczéljához,
+az emberiség feldicsőítéséhez vezetni, kérdem, lehet-e ennél minden kesertül tisztább érzés...”

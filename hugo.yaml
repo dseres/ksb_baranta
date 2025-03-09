@@ -16,9 +16,9 @@ Params:
 # sectionPagesMenu: main
 menus:
   main:
-  - name: Blog
-    weight: 10
-    url: /blog
+  # - name: Blog
+  #   weight: 10
+  #   url: /blog
   - name: Rólunk
     weight: 20
     url: #
@@ -42,9 +42,18 @@ menus:
     parent: Rólunk
     pageRef: about/ranks
     weight: 5
-  # - name: Tudástár
-  #   weight: 30
-  #   url: #
+  - name: Tudástár
+    weight: 30
+    url: #
+  - name: Fontos idézetek
+    parent: Tudástár
+    weight: 1
+    pageRef: knowledge/quotes
+  - name: Népdalok
+    parent: Tudástár
+    weight: 2
+    pageRef: knowledge/songs
+    
 
 security:
   exec:

@@ -1,0 +1,19 @@
+---
+title: Ipolyi Arnold
+date: 2025-03-09T14:06:10+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/quotes/ipolyi.jpg[]
+
+[quote,Ipolyi Arnold]
+„…nálunk ellenben a gondtalanság mellett a gőgös tudatlanság, s a tetszelgő álműveltség fanyar mosolyával
+nézik le az emlékeket…melyekhez hasonlót a mai czifraságaink ál- és pótdíszítményeivel nem vagyunk képesek alkotni…
+valahányszor ez azonban a népek történetében beáll, mindenkor a nemzetek hanyatlását jelzi,
+melyek a mint nem képesek többé az ősök nagy alkotmányait fenntartani , tisztelni és megérteni,
+azonnal megszűnnek képesek lenni azok folytatására, újak alkotására…”

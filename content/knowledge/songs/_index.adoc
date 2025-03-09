@@ -1,0 +1,12 @@
+---
+title: Népdalok
+date: 2025-03-09T14:38:12+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+Azon népdalok listája, ami fontos számunkra ill. fontos a baranta mozgalom számára.

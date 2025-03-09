@@ -1,7 +1,6 @@
 ---
 title: A baranta fokozatai
 date: 2024-04-03T20:03:59+02:00
-draft: true
 marcup: adoc
 ---
 

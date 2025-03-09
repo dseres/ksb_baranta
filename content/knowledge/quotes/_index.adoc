@@ -1,0 +1,16 @@
+---
+title: Fontos idézetek
+date: 2025-03-09T12:42:54+01:00
+draft: false
+marcup: adoc
+author: Seres Dávid
+subtitle: 
+summary: 
+tags: []
+image:
+---
+
+= Fontos idézetek
+
+Azon idézetek listáját tartalmazza ez az oldal, ami fontos számunkra ill. fontos a baranta mozgalom számára.
+

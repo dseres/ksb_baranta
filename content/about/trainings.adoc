@@ -8,7 +8,7 @@ Hosszú nadrág, póló, benti tornacipő. +
 Rövid bot, hosszú bot, íj, nyilak, ostor. Eszközöket kezdőknek tudunk biztosítani.
 
 Helyszínek és időpontok: + 
-Minden hétköznap a Magyarok Házában. Gyerekeknek ugyanitt. +
+Hétköznap a Magyarok Házában. Gyerekeknek ugyanitt. +
 Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
 
 ## Órarend
@@ -18,9 +18,8 @@ Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
 | Edzésnap  | Időpont   | Korosztály    | Fő téma
 
 | Hétfő     | 18-20     | 14-99         | Havi szinten változó
-| Ked       | 18-20     | 14-99         | Gyakorlás
-| Szerda    | 18-20     | 14-99         | Gyakorlás
-| Csütörtök | 18-20     | 14-99         | Havi szinten változó
+| Ked       | 17:30-19:30   | 14-99     | Gyakorlás
+| Szerda    | 17:30-19:30   | 14-99     | Gyakorlás
 | Péntek    | 17:30-19:30   | 7-99      | Családi edzés
 |===
 
@@ -39,21 +38,18 @@ A havi tagdíjat a foglalkozásvezetőnél lehet készpénzben befizetni ill., E
 
 .Table Díjak
 |===
-| Havi díj /fő  | Egyéni gyakorlási alkalom/hét | 1 edzés díja havi díjfizetés esetén
+| Havi díj /fő  | Egyéni gyakorlási alkalom/hét  
 
-| Heti 1 edzés  | 8,000                         | 2,000 
-| Heti 2 edzés  | 12,000                        | 1,500
-| Heti 3 edzés  | 15,000                        | 1,250
-| Heti 4 edzés  | 18,000                        | 1,150
-| Heti 5 edzés  | 20,000                        | 1,000
-|||
-| Fél év korlátlan/fő | 60,000 |
-| 1db edzés | 4,000 |
+| Heti 1 edzés  | 8,000                         
+| Heti 2 edzés  | 12,000                        
+| Heti 3 edzés  | 15,000                        
+| Heti 4 edzés  | 18,000                        
+||
+| 1db edzés | 4,000 
 |===
 
 
-Családi (testvér, házastárs) kedvezmény: 2. fő 50%, 3. 80% 4. től ingyen. + 
-Társadalmi munka kedvezmény havi pár óra esetén 25% vagy min 4 óra vagy több esetén 50%
+Családi (testvér, házastárs) kedvezmény: 2. fő 50%, 3. 80%, 4.-től ingyen.
 
 SZÁMLASZÁM: *11702081-21248515*
 
