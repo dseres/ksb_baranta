@@ -7,6 +7,14 @@ subtitle:
 summary: 
 tags: []
 image:
+# kind: page
 ---
 
 Azon népdalok listája, ami fontos számunkra ill. fontos a baranta mozgalom számára.
+
+* {{% ref "a_csitari_hegyek_alatt" %}}[A csitári hegyek alatt]
+* {{% ref "a_fenyes_nap_immar_elnyugodott" %}}[A fényes nap immár elnyugodott]
+* {{% ref "a_jo_lovas_katonanak" %}}[A jó lovas katonának]
+* {{% ref "aldja_meg_az_isten" %}}[Áldja meg az Isten]
+* {{% ref "balogh_adam_notaja" %}}[Balog Ádám nótája (Baranta változat)]
+

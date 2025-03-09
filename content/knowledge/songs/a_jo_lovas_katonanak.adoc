@@ -1,0 +1,24 @@
+---
+title: A jó lovas katonának
+date: 2025-03-09T15:05:25+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+[%hardbreaks]
+A jó lovas katonának de jól vagyon dolga,
+Eszik, iszik a sátorban, semmire sincs gondja.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet
+Csak az jöjjön katonának, aki ilyet szeret.
+
+[%hardbreaks]
+Paripáját megforgatja, elmegyen dolgára,
+Csillog-villog a mezőben virágszál módjára.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet
+Csak az jöjjön katonának, aki ilyet szeret.
+
+{{< youtube H6AhwOst-jQ>}}

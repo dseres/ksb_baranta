@@ -1,0 +1,36 @@
+---
+title: A csitári hegyek alatt
+date: 2025-03-09T14:42:10+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+[%hardbreaks]
+A csitári hegyek alatt régen leesett a hó.
+Azt hallottam kis angyalom, véled esett el a ló.
+Kitörted a kezedet, mivel ölelsz engemet?
+Így hát kedves kis angyalom, nem lehetek a tied.
+Kitörted a kezedet, mivel ölelsz engemet?
+Így hát kedves kis angyalom, nem lehetek a tied.
+
+[%hardbreaks]
+Amott látok az ég alatt egy madarat repülni,
+De szeretnék a rózsámnak egy levelet küldeni,
+Repülj madár, ha lehet, vidd el ezt a levelet,
+Mondd meg az én galambomnak, ne sirasson engemet.
+Repülj madár, ha lehet, vidd el ezt a levelet,
+Mondd meg az én galambomnak, ne sirasson engemet.
+
+[%hardbreaks]
+Amoda le van egy erdő, jajj de nagyon messze van,
+Kerek erdő közepibe két rozmaring bokor van.
+Egyik hajlik vállamra, másik a babáméra,
+Így hát kedves kis angyalom tiéd leszek valaha.
+Egyik hajlik vállamra, másik a babáméra,
+Így hát kedves kis angyalom tiéd leszek valaha.
+
+{{< youtube nxcBEtJrbNU >}}
