@@ -42,9 +42,9 @@ menus:
     parent: Rólunk
     pageRef: about/ranks
     weight: 5
-  - name: Tudástár
-    weight: 30
-    url: #
+  # - name: Tudástár
+  #   weight: 30
+  #   url: #
 
 security:
   exec:

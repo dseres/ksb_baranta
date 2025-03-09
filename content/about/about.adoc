@@ -12,17 +12,17 @@ A Baranta mint szó napjainkban már nem használt kifejezés melynek jelentése
 
 Seres Dávid +
 foglalkozásvezető + 
-<info@ksbbaranta.hu> + 
+info@ksbbaranta.hu + 
 20/522-9338
 
 Füstös Zoltán +
 foglalkozásvezető +
-<fustosz@gmail.com> +
+fustosz@gmail.com +
 20/928-7958
 
-Levelezőlistánkra a [ksb_baranta-subscribe@googlegroups.com](ksb_baranta-subscribe@googlegroups.com) címre küldött levéllel iratkozhat fel.
+Levelezőlistánkra a ksb_baranta-subscribe@googlegroups.com címre küldött levéllel iratkozhat fel.
 
 Wikipédia link:
-[http://hu.wikipedia.org/wiki/Baranta](http://hu.wikipedia.org/wiki/Baranta)
+http://hu.wikipedia.org/wiki/Baranta
 
-Mindent a barantáról, az [Országos Baranta Szövetség honlapja](https://baranta.org/)
+Mindent a barantáról az https://baranta.org[Országos Baranta Szövetség honlapján].
