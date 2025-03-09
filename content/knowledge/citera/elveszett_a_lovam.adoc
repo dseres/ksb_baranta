@@ -1,0 +1,12 @@
+---
+title: Elveszett a lovam
+date: 2025-03-09T20:56:39+01:00
+draft: true
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image::/images/citera/Elveszett_a_lovam-1.png[]

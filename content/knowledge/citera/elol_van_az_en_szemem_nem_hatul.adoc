@@ -1,0 +1,11 @@
+---
+title: Elöl van az én szemem nem hátul
+date: 2025-03-09T20:53:07+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image::/images/citera/elol_van_az_en_szemem_nem_hatul.png[]

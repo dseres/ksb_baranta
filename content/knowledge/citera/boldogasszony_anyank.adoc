@@ -1,0 +1,11 @@
+---
+title: Boldogasszony Anyánk
+date: 2025-03-09T20:44:49+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image::/images/citera/Boldogasszony_Anyank.png[]

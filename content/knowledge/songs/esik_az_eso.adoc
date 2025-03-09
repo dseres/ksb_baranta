@@ -1,7 +1,6 @@
 ---
 title: Esik az eső
 date: 2025-03-09T20:08:46+01:00
-draft: true
 marcup: adoc
 author:
 subtitle:

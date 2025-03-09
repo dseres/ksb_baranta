@@ -1,0 +1,32 @@
+---
+title: Citera
+date: 2025-03-09T20:37:05+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+"Játék közben asztalra fektethető, legegyszerűbb változatában téglalap alakú hasáb formájú húros pengetőhangszer."
+(https://mek.oszk.hu/02100/02115/html/1-1152.html[Magyar Néprajzi Lexikon])
+A Citera menüpont alatt magyar népdalok citerához igazított kottáit találhatjuk meg.
+
+Sok hasznos információ és ingyenes oktatási anyag található
+https://www.zither.hu/index.php?option=com_content&#38;view=article&#38;id=8&#38;Itemid=16&#38;lang=hu[Gáts Tibor citerakészítő]
+honlapján.
+A Wikipédia citera szócikke megtalálható itt. Ha valaki citeratanárt keres,
+ajánljuk neki Bolla Katit (bollakati@gmail.com).
+
+* {{% ref "a_becsali_csardaban" %}}[A becsali csárdában]
+* {{% ref "boldogasszony_anyank" %}}[Boldogasszony Anyánk]
+* {{% ref "csutortokon_virradora" %}}[Csütörtökön virradóra]
+* {{% ref "don-kanyarban_all_egy_szomoru_fuzfa" %}}[Don-kanyarban áll egy szomrú fűzfa]
+* {{% ref "elol_van_az_en_szemem_nem_hatul" %}}[Elöl van az én szemem nem hátul]
+* {{% ref "erre_gyere_amerre_en" %}}[Erre gyere, amerre én]
+* {{% ref "elveszett_a_lovam" %}}[Elveszett a lovam]
+* {{% ref "gorogdinnyet_nem_jo_dombra_ultetni" %}}[Görögdinnyét nem jó dombra ültetni]
+* {{% ref "gyori_kanasz_a_dombon" %}}[Győri kanász a dombon]
+* {{% ref "ha_bemegyek_a_matolcsi_csardaba" %}}[Ha bemegyek a matólcsi csárdába]
+* {{% ref "harmat_tojott_a_fekete_kanya" %}}[Hármat tojott a fekete kánya]

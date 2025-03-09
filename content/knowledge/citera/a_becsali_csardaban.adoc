@@ -1,0 +1,12 @@
+---
+title: A becsali csárdában
+date: 2025-03-09T20:41:31+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/citera/A_becsali_csardaban.png[]

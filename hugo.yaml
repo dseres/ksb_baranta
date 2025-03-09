@@ -53,6 +53,10 @@ menus:
     parent: Tudástár
     weight: 2
     pageRef: knowledge/songs
+  - name: Citerára
+    parent: Tudástár
+    weight: 3
+    pageRef: knowledge/citera
     
 
 security:

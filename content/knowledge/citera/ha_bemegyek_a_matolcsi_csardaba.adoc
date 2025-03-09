@@ -1,0 +1,11 @@
+---
+title: Ha bemegyek a matólcsi csárdába
+date: 2025-03-09T21:03:07+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image::/images/citera/Ha_bemegyek_a_matolcsi_csardaba.png[]
