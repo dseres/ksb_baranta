@@ -1,0 +1,46 @@
+---
+title: Fordulj kedves lovam
+date: 2025-03-09T20:10:16+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+[%hardbreaks]
+Fordulj, kedves lovam, napszentület felé,
+Úgysem jövünk többet soha visszafelé.
+Messze földre megyek, elbujdosom innen,
+Szép szülőhazámat nem látom meg többet.
+&nbsp;
+
+[%hardbreaks]
+Fúdd el jó szél, fúdd el, hosszú útnak porát,
+Hosszú útnak porát, fakó lovam nyomát!
+Jó ló volt a fakó, jó a viselete.
+Áldja meg az Isten, azt ki fölnevelte!
+&nbsp;
+
+[%hardbreaks]
+Porladozik csontja, fekete főd nyomja,
+Az én bús szívem is csak a bú rongálja.
+Árva vagyok árva, mint réten a tarló,
+Kinek ékességét, elvette a sarló.
+&nbsp;
+
+[%hardbreaks]
+Az idegen földön olyan beteg vagyok,
+Szomszédim házáig alig elámbolygok.
+Szomszédim azt mondják, talán meg is halok,
+Én is azt gondolom, meg sem is maradok.
+&nbsp;
+
+[%hardbreaks]
+Idegen országban idegen emberek,
+Járok az utcákon, senkit nem ismerek.
+Szólanék hozzájuk, de ők nem értenek.
+Ezen az én szívem de nagyon kesereg.
+&nbsp;
+
+{{< youtube EcEqWiTD-7c >}}

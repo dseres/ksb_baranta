@@ -1,0 +1,52 @@
+---
+title: Esik az eső
+date: 2025-03-09T20:08:46+01:00
+draft: true
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+[%hardbreaks]
+Esik az eső, ázik a heveder.
+Gyönge lábamat szorítja a kengyel.
+Bársony lekötés szorítja lovamat,
+Nehéz karabély nyomja a vállamat.
+&nbsp;
+
+[%hardbreaks]
+Megjött a levél fekete pecséttel.
+Megjött a muszka százezer emberrel.
+Négyszáz ágyúval áll a harc mezején,
+Így hát, jó anyám, elmasírozok én.
+&nbsp;
+
+[%hardbreaks]
+Fújnak riadót, verik a rézdobot,
+Sok tiszt kiáltja: Előre magyarok!
+Szólnak az ágyuk, ropognak a puskák,
+Szomorú nótát fújnak a regruták.
+&nbsp;
+
+[%hardbreaks]
+Jön egy kapitány piros pej paripán,
+Kardja megvillan a jobbik oldalán.
+Kardja megvillan, az ágyú elrobban,
+Szép piros vérem a földre kiloccsan.
+&nbsp;
+
+[%hardbreaks]
+Pajtás, ha látod folyni a véremet,
+Töltsd meg fegyvered, lőj agyon engemet!
+Szuronyod végét szegezd a szívemnek,
+Ne hagyj sokáig szenvedni engemet!
+&nbsp;
+
+[%hardbreaks]
+Sírhat - ríhat már az édesanyja,
+Kinek fiát viszik háborúba.
+Kezét vagy lábát a folyó ellövi;
+Meg sem hal szegény, már el is temetik
+&nbsp;

@@ -1,0 +1,34 @@
+---
+title: Baranta himnusz
+date: 2025-03-09T19:45:13+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+[%hardbreaks]
+Isten áldja meg a magyart,
+tartson neve míg a Föld tart.
+Paradicsom hazájában,
+éljen örök boldogságban,
+éljen örök boldogságban.
+&nbsp;
+
+
+[%hardbreaks]
+Töltse békében napjait,
+egyezve lássa fiait,
+tatár,török s más ellenség,
+Minket meg ne rendíthessék,
+minket meg ne rendíthessék.
+&nbsp;
+
+[%hardbreaks]
+Isten áldja meg a magyart,
+tartson neve míg a Föld tart.
+Isten áldjon meg bennünket,
+minden igaz magyar embert,
+minden igaz magyar embert.

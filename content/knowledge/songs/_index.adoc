@@ -7,7 +7,7 @@ subtitle:
 summary: 
 tags: []
 image:
-# kind: page
+kind: page
 ---
 
 Azon népdalok listája, ami fontos számunkra ill. fontos a baranta mozgalom számára.
@@ -17,4 +17,18 @@ Azon népdalok listája, ami fontos számunkra ill. fontos a baranta mozgalom sz
 * {{% ref "a_jo_lovas_katonanak" %}}[A jó lovas katonának]
 * {{% ref "aldja_meg_az_isten" %}}[Áldja meg az Isten]
 * {{% ref "balogh_adam_notaja" %}}[Balog Ádám nótája (Baranta változat)]
+* {{% ref "baranta_himnusz" %}}[Baranta himnusz]
+* {{% ref "csutortokon_virradora" %}}[Csütörtökön virradóra]
+* {{% ref "ej_a_titkos_szerelem" %}}[Ej, a titkos szerelem]
+* {{% ref "en_vagyok_az_aki_nem_jo" %}}[Én vagyok az aki nem jó]
+* {{% ref "esik_az_eso" %}}[Esik az eső]
+* {{% ref "fordulj_kedves_lovam" %}}[Fordulj kedves lovam]
+* {{% ref "ha_kimegyek_a_doberdoi_harcterre" %}}[Ha kimegyek a doberdói harctérre]
+* {{% ref "huszarosan_vagatom_a_hajamat" %}}[Huszárosan vágatom a hajamat]
+* {{% ref "koszonto" %}}[Köszöntő]
+* {{% ref "magyarok_istene" %}}[Magyarok Istene]
+* {{% ref "nem_loptam_en_eletemben" %}}[Nem loptam én életemben]
+* {{% ref "nincsen_a_vilagnak_olyan_csodaja" %}}[Nincsen a világnak még olyan csodája]
+* {{% ref "szekely_himnusz" %}}[Székely himnusz]
+* {{% ref "udvaromon_aranyvalyu_aranykut" %}}[Udvaromon aranyvályú aranykút]
 

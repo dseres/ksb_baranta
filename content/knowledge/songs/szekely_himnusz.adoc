@@ -1,0 +1,23 @@
+---
+title: Székely himnusz
+date: 2025-03-09T20:25:12+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+[%hardbreaks]
+Ki tudja merre, merre visz a végzet
+Göröngyös úton, sötét éjjelen.
+Segítsd még egyszer győzelemre néped,
+Csaba királyfi csillagösvényen.
+&nbsp;
+
+[%hardbreaks]
+Maroknyi székely porlik, mint a szikla
+Népek harcának zajló tengeren.
+Fejünk az ár ezerszer elborítja,
+Ne hagyd elveszni Erdélyt, Istenünk!

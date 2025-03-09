@@ -9,17 +9,18 @@ tags: []
 image:
 ---
 
-[%hardbreaks]
 Vörös/Török bársony süvegem,
 Most élem gyöngy életem,
 Balogh Ádám a nevem,
 Ha vitéz vagy jer velem!
+&nbsp;
 
 [%hardbreaks]
 Fakó lovam, a Murza
 Lajta vizét átússza
 Bécs alját ha nyargalja, 
 Császár azt meg síratja.
+&nbsp;
 
 [%hardbreaks]
 Ég a város és a ház, 
