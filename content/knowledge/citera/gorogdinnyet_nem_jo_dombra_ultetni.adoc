@@ -1,7 +1,6 @@
 ---
 title: Görögdinnyét nem jó dombra ültetni
 date: 2025-03-09T20:59:45+01:00
-draft: true
 marcup: adoc
 author:
 subtitle:

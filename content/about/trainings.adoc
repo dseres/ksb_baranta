@@ -5,11 +5,12 @@ date: 2024-03-30T19:10:28+01:00
 
 Foglalkozásra hozni kell: +
 Hosszú nadrág, póló, benti tornacipő. +
-Rövid bot, hosszú bot, íj, nyilak, ostor. Eszközöket kezdőknek tudunk biztosítani.
+Tematikus edzésekre íj, nyilak, ostor. Eszközöket kezdőknek tudunk biztosítani.
 
 Helyszínek és időpontok: + 
-Hétköznap a Magyarok Házában. Gyerekeknek ugyanitt. +
-Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
+Hétköznap a Turul Házban (Magyarok Világszövetségének székháza). Gyerekeknek ugyanitt. +
+Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052 +
+A pénteki családi edzést jó idő esetén a Hajógyári-szigeten szoktuk megtartani késő tavaszól kora őszig.
 
 ## Órarend
 
@@ -18,9 +19,9 @@ Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
 | Edzésnap  | Időpont   | Korosztály    | Fő téma
 
 | Hétfő     | 18-20     | 14-99         | Havi szinten változó
-| Ked       | 17:30-19:30   | 14-99     | Gyakorlás
-| Szerda    | 17:30-19:30   | 14-99     | Gyakorlás
-| Péntek    | 17:30-19:30   | 7-99      | Családi edzés
+| Kedd      | 17:30-19:00   | 14-99     | Íjászat
+| Szerda    | 17:30-19:30   | 14-99     | Havi szinten változó
+| Péntek    | 17:30-19:30   | 7-99      | Családi edzés, erősítés, képességfejlesztés, alapok oktatása
 |===
 
 .Table Gyerek órarend
@@ -28,10 +29,11 @@ Pontos cím: Budapest, H, 1054, Semmelweis u. 1-3, 1052
 | Edzésnap  | Időpont       | Korosztály    | Fő téma
 
 | Hétfő     | 17:00-18:00   | 06-16         | Ügyességi,népi játékok (bot, szablya, stb.)
-| Kedd      | 17:00-18:00   | 06-16         | Íjászat (Családi edzés)
-| Szerda    | 17:00-18:00   | 06-16         | Bírkózás
-| Péntek    | 17:30-19:30   | 06-99         | Családi edzés
+| Péntek    | 17:30-19:30   | 7-99          | Családi edzés
 |===
+
+Igény esetén tudnánk bővíteni a gyermek edzések időpontját.
+
 ## Díjak
 
 A havi tagdíjat a foglalkozásvezetőnél lehet készpénzben befizetni ill., Egyesületünk számlaszámára utalva. A közleménybe kérem beírni, hogy "havi tagdíj + ha nem saját számláról történik az utalás, akkor az edzésen résztvevő nevét is.
