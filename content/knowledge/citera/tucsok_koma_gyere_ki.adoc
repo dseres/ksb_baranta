@@ -1,0 +1,11 @@
+---
+title: Tücsök koma gyere ki
+date: 2025-03-10T07:16:11+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image:/images/citera/Tucsok_koma_gyere_ki-1.png[]

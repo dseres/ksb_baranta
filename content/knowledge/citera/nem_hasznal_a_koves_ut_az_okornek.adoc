@@ -1,0 +1,11 @@
+---
+title: Nem használ a, nem használ a kőves út az ökörnek
+date: 2025-03-10T07:11:54+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image:/images/citera/Nem_hasznal_a_nem_hasznal_a_koves_ut_az_okornek-1.png[]

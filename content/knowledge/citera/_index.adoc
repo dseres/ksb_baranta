@@ -14,7 +14,7 @@ image:
 A Citera menüpont alatt magyar népdalok citerához igazított kottáit találhatjuk meg.
 
 Sok hasznos információ és ingyenes oktatási anyag található
-https://www.zither.hu/index.php?option=com_content&#38;view=article&#38;id=8&#38;Itemid=16&#38;lang=hu[Gáts Tibor citerakészítő]
+https://www.zither.hu/index.php?option=com_content&view=article&id=8&Itemid=16&lang=hu[Gáts Tibor citerakészítő]
 honlapján.
 A Wikipédia citera szócikke megtalálható itt. Ha valaki citeratanárt keres,
 ajánljuk neki Bolla Katit (bollakati@gmail.com).
@@ -30,3 +30,16 @@ ajánljuk neki Bolla Katit (bollakati@gmail.com).
 * {{% ref "gyori_kanasz_a_dombon" %}}[Győri kanász a dombon]
 * {{% ref "ha_bemegyek_a_matolcsi_csardaba" %}}[Ha bemegyek a matólcsi csárdába]
 * {{% ref "harmat_tojott_a_fekete_kanya" %}}[Hármat tojott a fekete kánya]
+* {{% ref "ingem_gatyam_de_szennyes" %}}[Ingem, gatyám de szennyes]
+* {{% ref "jaj_de_busan_sut_az_oszi_nap_sugara" %}}[Jaj de búsan süt az őszi nap sugára]
+* {{% ref "jaj_de_saros_jaj_de_roges_ez_az_ut" %}}[Jaj de sáros, jaj de röges ez az út]
+* {{% ref "kecskebeka_felmaszott_a_fuzfara" %}}[Kecskebéka felmászott a fűzfára]
+* {{% ref "kiskalosi_fenyveserdo_a_tanyam" %}}[Kiskálosi fenyveserdő a tanyám]
+* {{% ref "lassan_kocsis_hogy_a_kocsi_ne_razzon" %}}[Lassan kocsis, hogy a kocsi ne rázzon]
+* {{% ref "megajjon_kend_ho" %}}[Megájjon kend, hó!]
+* {{% ref "nem_hasznal_a_koves_ut_az_okornek" %}}[Nem használ a, nem használ a kőves út az ökörnek]
+* {{% ref "sargarepat_nem_jo_dombra_ultetni" %}}[Sárgarépát nem jó dombra dombra ültetni]
+* {{% ref "szombaton_este_nem_jo_citerazni" %}}[Szombaton este, nem jó citerázni]
+* {{% ref "tucsok_koma_gyere_ki" %}}[Tücsök koma gyere ki]
+* {{% ref "tul_a_vizen_egy_kosar" %}}[Túl a vízen egy kosár]
+* {{% ref "varad_felol" %}}[Várad felől]

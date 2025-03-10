@@ -1,0 +1,11 @@
+---
+title: Lassan kocsis, hogy a kocsi ne rázzon
+date: 2025-03-10T07:05:06+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image:/images/citera/lassan_kocsis.png[]

@@ -1,0 +1,11 @@
+---
+title: Szombaton este, nem jó citerázni
+date: 2025-03-10T07:15:07+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+image:/images/citera/Szombaton_este_nem_jo_citerazni.png[]
