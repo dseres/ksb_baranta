@@ -9,4 +9,4 @@ tags: []
 image:
 ---
 
-image::/images/citera/don-kanyarban.svg[]
+image::/images/zither/don-kanyarban.svg[]

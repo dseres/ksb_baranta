@@ -3,5 +3,5 @@
 /.task
 
 # Generated content:
-/static/images/citera/*.svg
-/static/images/citera/*.midi
+/static/images/zither/*.svg
+/static/images/zither/*.midi

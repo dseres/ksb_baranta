@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/nem_hasznal_a_nem_hasznal_a_koves_ut_az_okornek.png[]
+image:/images/zither/nem_hasznal_a_nem_hasznal_a_koves_ut_az_okornek.png[]

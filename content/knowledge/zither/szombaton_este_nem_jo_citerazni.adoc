@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/szombaton_este_nem_jo_citerazni.svg[]
+image:/images/zither/szombaton_este_nem_jo_citerazni.svg[]

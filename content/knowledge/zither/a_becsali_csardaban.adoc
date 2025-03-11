@@ -9,4 +9,4 @@ tags: []
 image:
 ---
 
-image::/images/citera/a_becsali_csardaban.svg[]
+image::/images/zither/a_becsali_csardaban.svg[]

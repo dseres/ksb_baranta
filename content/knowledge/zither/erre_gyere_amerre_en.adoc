@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/erre_gyere_amerre_en.svg[]
+image::/images/zither/erre_gyere_amerre_en.svg[]

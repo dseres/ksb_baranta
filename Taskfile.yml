@@ -21,16 +21,15 @@ tasks:
         task: score
         vars:
           FILE: '{{.ITEM}}'
-      - rm -f static/images/citera/*.midi
+      - rm -f static/images/zither/*.midi
     sources:
       - content/knowledge/citera/*.ly
     generates:
-      - static/images/citera/*.svg
+      - static/images/zither/*.svg
 
   score:
-    silent: true
     cmds:
-      - lilypond --silent --svg -o static/images/citera/ {{ .FILE }}
+      - lilypond --silent --svg -o static/images/zither/ {{ .FILE }}
 
   server:
     desc: 
@@ -42,5 +41,5 @@ tasks:
     desc:
       Ereases every generated content.
     cmds:
-      - rm -f static/images/citera/*.svg
+      - rm -f static/images/zither/*.svg
       - rm -rf public/*

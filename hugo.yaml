@@ -60,7 +60,7 @@ menus:
   - name: Citerára
     parent: Tudástár
     weight: 30
-    pageRef: knowledge/citera
+    pageRef: knowledge/zither
     
 
 security:

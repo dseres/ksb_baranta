@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/kecskebeka_felmaszott_a_fuzfara.svg[]
+image:/images/zither/kecskebeka_felmaszott_a_fuzfara.svg[]

@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/ha_bemegyek_a_matolcsi_csardaba.svg[]
+image::/images/zither/ha_bemegyek_a_matolcsi_csardaba.svg[]

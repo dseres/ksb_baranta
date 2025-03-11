@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/boldogasszony_anyank.svg[]
+image::/images/zither/boldogasszony_anyank.svg[]

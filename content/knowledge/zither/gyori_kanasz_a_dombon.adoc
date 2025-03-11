@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/gyori_kanasz_a_dombon.svg[]
+image::/images/zither/gyori_kanasz_a_dombon.svg[]
