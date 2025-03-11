@@ -1,0 +1,12 @@
+---
+title: Vót nékem szeretőm
+date: 2025-03-11T22:24:46+01:00
+marcup: adoc
+author:
+subtitle:
+summary: 
+tags: []
+image:
+---
+
+image::/images/citera/vot_nekem_szeretom.svg[]

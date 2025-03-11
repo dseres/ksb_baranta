@@ -43,3 +43,4 @@ ajánljuk neki Bolla Katit (bollakati@gmail.com).
 * {{% ref "tucsok_koma_gyere_ki" %}}[Tücsök koma gyere ki]
 * {{% ref "tul_a_vizen_egy_kosar" %}}[Túl a vízen egy kosár]
 * {{% ref "varad_felol" %}}[Várad felől]
+* {{% ref "vot_nekem_szeretom" %}}[Vót nékem szeretőm]
