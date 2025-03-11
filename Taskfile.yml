@@ -1,0 +1,22 @@
+version: "3"
+tasks:
+  default:
+    desc:
+      Default task will call 'task build'
+    deps: ["build"]
+  build: 
+    desc: 
+      Build everything in this project for production.
+    deps: ["scores"]
+    cmds:
+      - hugo build
+  scores:
+    desc: 
+      Compiles lilypond scores and save them as SVG files.
+    cmds:
+      - echo "Hello"
+  server:
+    desc: 
+      Runs hugo server.
+    cmds:
+      - hugo serve --buildDrafts
