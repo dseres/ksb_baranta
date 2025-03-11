@@ -1,3 +1,3 @@
-div .imageblock{
+div.imageblock div.content img, span.image img{
     background-color: white;
 }
