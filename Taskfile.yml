@@ -23,7 +23,7 @@ tasks:
           FILE: '{{.ITEM}}'
       - rm -f static/images/zither/*.midi
     sources:
-      - content/knowledge/citera/*.ly
+      - content/knowledge/zither/*.ly
     generates:
       - static/images/zither/*.svg
 
