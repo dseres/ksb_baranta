@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/Varad_felol.png[]
+image:/images/citera/varad_felol.png[]

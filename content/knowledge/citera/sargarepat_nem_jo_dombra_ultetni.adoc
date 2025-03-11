@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/Sargarepat_nem_jo_dombra_ultetni.png[]
+image:/images/citera/sargarepat_nem_jo_dombra_ultetni.svg[]

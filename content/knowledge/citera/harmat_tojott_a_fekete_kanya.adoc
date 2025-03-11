@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/Harmat_tojott_a_fekete_kanya.png[]
+image::/images/citera/harmat_tojott_a_fekete_kanya.svg[]

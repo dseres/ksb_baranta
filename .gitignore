@@ -1,2 +1,7 @@
 /public/
 /.hugo_build.lock
+/.task
+
+# Generated content:
+/static/images/citera/*.svg
+/static/images/citera/*.midi

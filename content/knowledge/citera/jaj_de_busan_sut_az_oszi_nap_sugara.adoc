@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/jaj_de_busan_sut_az_oszi_nap_sugara.png[]
+image::/images/citera/jaj_de_busan_sut_az_oszi_nap_sugara.svg[]

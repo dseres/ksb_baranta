@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image::/images/citera/Ingem_gatyam_de_szennyes.png[]
+image::/images/citera/ingem_gatyam_de_szennyes.svg[]

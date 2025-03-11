@@ -1,22 +1,46 @@
 version: "3"
 tasks:
+
   default:
     desc:
       Default task will call 'task build'
     deps: ["build"]
+
   build: 
     desc: 
       Build everything in this project for production.
     deps: ["scores"]
     cmds:
       - hugo build
+
   scores:
     desc: 
       Compiles lilypond scores and save them as SVG files.
     cmds:
-      - echo "Hello"
+      - for: sources
+        task: score
+        vars:
+          FILE: '{{.ITEM}}'
+      - rm -f static/images/citera/*.midi
+    sources:
+      - content/knowledge/citera/*.ly
+    generates:
+      - static/images/citera/*.svg
+
+  score:
+    silent: true
+    cmds:
+      - lilypond --silent --svg -o static/images/citera/ {{ .FILE }}
+
   server:
     desc: 
       Runs hugo server.
     cmds:
       - hugo serve --buildDrafts
+  
+  clean:
+    desc:
+      Ereases every generated content.
+    cmds:
+      - rm -f static/images/citera/*.svg
+      - rm -rf public/*

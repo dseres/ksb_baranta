@@ -8,4 +8,4 @@ summary:
 tags: []
 image:
 ---
-image:/images/citera/Jaj_de_saros_jaj_de_roges_ez_az_ut.png[]
+image:/images/citera/jaj_de_saros_jaj_de_roges_ez_az_ut.svg[]
