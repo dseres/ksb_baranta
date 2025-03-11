@@ -1,4 +1,4 @@
-# KSB Baranta honlapjána a forráskódja
+# KSB Baranta honlapjának forráskódja
 
 A [honlapot](www.ksb_baranta.hu) a [Hugo](https://gohugo.io/) statikus generátor segítségével lehet előállítani az itt tárolt kódokból. 
 
