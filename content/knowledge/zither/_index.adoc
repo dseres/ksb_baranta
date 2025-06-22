@@ -37,6 +37,7 @@ ajánljuk neki Bolla Katit (bollakati@gmail.com).
 * {{% ref "kiskalosi_fenyveserdo_a_tanyam" %}}[Kiskálosi fenyveserdő a tanyám]
 * {{% ref "lassan_kocsis_hogy_a_kocsi_ne_razzon" %}}[Lassan kocsis, hogy a kocsi ne rázzon]
 * {{% ref "megajjon_kend_ho" %}}[Megájjon kend, hó!]
+* {{% ref "masfel_hete" %}}[Másfél hete]
 * {{% ref "nem_hasznal_a_koves_ut_az_okornek" %}}[Nem használ a, nem használ a kőves út az ökörnek]
 * {{% ref "sargarepat_nem_jo_dombra_ultetni" %}}[Sárgarépát nem jó dombra dombra ültetni]
 * {{% ref "szombaton_este_nem_jo_citerazni" %}}[Szombaton este, nem jó citerázni]
