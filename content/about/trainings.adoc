@@ -24,16 +24,6 @@ A pénteki családi edzést jó idő esetén a Hajógyári-szigeten szoktuk megt
 | Péntek    | 17:30-19:30   | 7-99      | Családi edzés, erősítés, képességfejlesztés, alapok oktatása
 |===
 
-.Table Gyerek órarend
-|===
-| Edzésnap  | Időpont       | Korosztály    | Fő téma
-
-| Hétfő     | 17:00-18:00   | 06-16         | Ügyességi,népi játékok (bot, szablya, stb.)
-| Péntek    | 17:30-19:30   | 7-99          | Családi edzés
-|===
-
-Igény esetén tudnánk bővíteni a gyermek edzések időpontját.
-
 ## Díjak
 
 A havi tagdíjat a foglalkozásvezetőnél lehet készpénzben befizetni ill., Egyesületünk számlaszámára utalva. A közleménybe kérem beírni, hogy "havi tagdíj + ha nem saját számláról történik az utalás, akkor az edzésen résztvevő nevét is.
