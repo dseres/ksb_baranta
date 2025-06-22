@@ -9,16 +9,17 @@
 
 \score{
 	<<
-	\relative c' {
+	{ \relative c' {
 		\key es \major 
 		\numericTimeSignature   
 		\override Staff.TimeSignature   #'break-visibility = #end-of-line-invisible
         \time 4/4
 		ees8 d c c ees ees g g | d8 d4. f2 | \break
-        aes8 g f f ees ees c c | g'8 g4. g2 | \break
-        ees4. d8 c d4. | ees8 d c g' aes g f4 | \break
-        ees8 ees g g g fis g d  ees c4. c2 | 
-	}
+        aes8 g f f aes aes c c | g 8 g4. g2 | \break
+        \repeat volta 2 {
+			ees4. d8 c d4. | ees8 d c g' aes g f4 | \break
+        	ees8 ees g g g fis g d  ees c4. c2 | }
+	} }
 	\addlyrics {
 		Más- fél he- te, hogy a ba- bám nem lát- tam,
         Más- fél he- te er- dőt, me- zőt be- jár- tam,
